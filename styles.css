@@ -1,0 +1,98 @@
+.Thestartofthewebsite {
+  background-color: grey;
+  font-family: Balsamiq Sans;
+  border: 10px solid black;
+  margin-top: 50px;
+}
+.nav-wrapper {
+  padding: 20px;
+
+  justify-content: space-between;
+
+
+}
+.Thestartofthewebsite {
+
+}
+.not-a-rickroll {
+
+  padding: 10px
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+.about {
+  text-decoration: none;
+  width: 100px;
+  height: 60px;
+  font-family: Balsamiq Sans;
+}
+.about a {
+  margin-left: 300px;
+  color: #a8a8a8;
+  text-decoration: none;
+  transition: color 1s;
+}
+.about:hover {
+
+}
+.about a:hover {
+  color: black;
+}
+#quotes {
+  margin: 0px;
+  font-family: Balsamiq Sans;
+  border-right: 3px solid black;
+  border-top: 3px solid black;
+  width: 350px;
+  height: 700px;
+}
+#logo {
+  width: 350px;
+  height: 350px;
+  border-right: 3px solid black;
+  padding: 0px;
+  position: relative;
+  bottom: 18px;
+}
+#games {
+  position: relative;
+  bottom: 500px;
+  width: 500px;
+  height: 500px;
+  margin-left: 500px;
+  text-decoration: none;
+}
+#games a{
+  text-decoration: none;
+  color: #a8a8a8;
+  transition: color 1s;
+}
+#games a:hover {
+  color: black;
+}
+#updates {
+  position: relative;
+  width: 300px;
+  height: 600px;
+  margin-left: 1025px;
+  bottom: 1185px;
+  border-left: 3px solid black;
+  background-color: #a8a8a8;
+}
+#updateHeader {
+  background-color: #727272;
+}
+#discription {
+  background-color: #a2a2a2;
+  position: relative;
+  bottom: 20px;
+}
+#gameHeader {
+  position: relative;
+  margin-left: 600px;
+  bottom: 1100px;
+  background-color: #727272;
+  width: 110px;
+  height: 40px;
+}
